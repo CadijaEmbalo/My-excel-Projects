@@ -56,4 +56,15 @@ Just tell me what you want to improve next.
 
 
 
+pivot tables:
+<img width="1111" height="445" alt="Bike Sales Pivot Tables docx" src="https://github.com/user-attachments/assets/13685aed-8649-4bb9-ad56-4bd716649b80" />
+<img width="896" height="432" alt="Bike Sales Visualization Lab docx" src="https://github.com/user-attachments/assets/a9d9bb33-4a9f-44bf-b455-f9274ba0f397" />
+
+
+SWITCH Function:
+<img width="688" height="282" alt="SWITCH Function" src="https://github.com/user-attachments/assets/ed588146-5339-448e-a9ef-277bfa603af2" />
+<img width="947" height="240" alt="age group" src="https://github.com/user-attachments/assets/7ef6923b-5bdd-4026-a643-a95fee2e407a" />
+
+
+
 
