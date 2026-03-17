@@ -1,11 +1,16 @@
 # My-excel-Projects
 
+### Data Technician Bootcamp – Week 1 Project
 
-📊 Retail & Sales Data Analysis — Excel Project
+
+
+
+### 📊 Retail & Sales Data Analysis — Excel Project
+
 This project was completed during a Data Technician Bootcamp, focusing on transforming raw retail and sales data into meaningful insights using Microsoft Excel. The work demonstrates strong analytical skills, data‑cleaning techniques, and the ability to communicate findings through clear, structured visualizations.
 
 
-🚀 Project Overview
+### 🚀 Project Overview
 The goal of this project was to explore retail and sales performance across different demographics, time periods, and regions. Using Excel’s core analytical tools, the project highlights:
 - Customer behaviour patterns
 - Sales performance by age group, gender, and country
@@ -14,9 +19,9 @@ The goal of this project was to explore retail and sales performance across diff
 The workbook includes formulas, PivotTables, and charts designed to support data‑driven decision‑making.
 
 
-🛠️ Skills Demonstrated
+### 🧰 Skills & Techniques Used
 
-📐 Excel Formulas & Functions
+### 📐 Excel Formulas & Functions
 Used to clean, transform, and analyse data, including:
 - SUM, SUMIF — aggregating totals by category
 - AVERAGE, AVERAGEIF — calculating performance metrics
@@ -26,19 +31,19 @@ Used to clean, transform, and analyse data, including:
 - SWITCH — creating dynamic, rule‑based classifications
 
 
-🔎 Data Manipulation
+### 🔎 Data Manipulation
 - Sorting and filtering large datasets
 - Creating structured tables for easier analysis
 - Using conditional formatting to highlight trends and outliers
 
 
-📊 PivotTables & PivotCharts
+### 📊 PivotTables & PivotCharts
 - Summarising sales by age group, gender, year, and country
 - Building interactive views for deeper exploration
 - Creating PivotCharts to visualise patterns and comparisons
 
 
-📈 Data Visualisation
+### 📈 Data Visualisation
 A variety of charts were used to communicate insights clearly:
 - Bar charts
 - Line charts
@@ -48,20 +53,22 @@ A variety of charts were used to communicate insights clearly:
 These visuals help reveal demographic trends, sales distribution, and performance differences across regions.
 
 
-🎨 Data Storytelling
+### 🎨 Data Storytelling
 The project is structured to guide the viewer through a logical narrative:
 - Who is buying? — demographic breakdowns
 - Where are sales strongest? — country‑level comparisons
 - How do behaviours differ? — age and gender patterns
 - What trends matter? — year‑based insights and seasonal patterns
 Each section is designed to turn raw numbers into actionable insights.
+---
 
-📁 Project Files
+### 📁 Project Files
 - Retail_Sales_Analysis.xlsx — main Excel workbook
 - images/ — exported charts and visuals
 - README.md — project documentation
+---
 
-💡 Key Takeaways
+### 💡 Key Takeaways
 This project demonstrates the ability to:
 - Analyse retail and sales data using Excel
 - Build dynamic PivotTables and charts
@@ -78,15 +85,15 @@ This project demonstrates the ability to:
 
 
 
+---
+### Pivot tables and Pivot Charts:
+### <img width="1111" height="445" alt="Bike Sales Pivot Tables docx" src="https://github.com/user-attachments/assets/13685aed-8649-4bb9-ad56-4bd716649b80" />
+### <img width="896" height="432" alt="Bike Sales Visualization Lab docx" src="https://github.com/user-attachments/assets/a9d9bb33-4a9f-44bf-b455-f9274ba0f397" />
 
-pivot tables:
-<img width="1111" height="445" alt="Bike Sales Pivot Tables docx" src="https://github.com/user-attachments/assets/13685aed-8649-4bb9-ad56-4bd716649b80" />
-<img width="896" height="432" alt="Bike Sales Visualization Lab docx" src="https://github.com/user-attachments/assets/a9d9bb33-4a9f-44bf-b455-f9274ba0f397" />
 
-
-SWITCH Function:
-<img width="688" height="282" alt="SWITCH Function" src="https://github.com/user-attachments/assets/ed588146-5339-448e-a9ef-277bfa603af2" />
-<img width="947" height="240" alt="age group" src="https://github.com/user-attachments/assets/7ef6923b-5bdd-4026-a643-a95fee2e407a" />
+### Switch Function:
+### <img width="688" height="282" alt="SWITCH Function" src="https://github.com/user-attachments/assets/ed588146-5339-448e-a9ef-277bfa603af2" />
+### <img width="947" height="240" alt="age group" src="https://github.com/user-attachments/assets/7ef6923b-5bdd-4026-a643-a95fee2e407a" />
 
 
 
