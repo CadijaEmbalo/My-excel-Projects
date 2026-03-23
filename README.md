@@ -130,21 +130,25 @@ This project demonstrates the ability to:
 
  
 
- 
-
- 
- 
  <img width="700" height="800" alt="Bike Sales Visualization Lab docx" src="https://github.com/user-attachments/assets/a9d9bb33-4a9f-44bf-b455-f9274ba0f397" />
+
+
 
 
 ### Switch Function:
 
 
 
-
+ 
+ 
+ 
  <img width="700" height="800" alt="SWITCH Function" src="https://github.com/user-attachments/assets/ed588146-5339-448e-a9ef-277bfa603af2" />
  
 
+
+
+ 
+ 
 
  
  
